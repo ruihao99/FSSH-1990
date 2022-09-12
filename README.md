@@ -9,9 +9,10 @@ Here is the structure for the code.
 .
 ├── DrawPot.cpp           # Draws the potential, from x \in {-10 <= x <= 10}
 ├── README.md             # this file
+├── fssh.cpp              # The molecular dynamics simulations (SAC, DAC and ECR.)
 └── include
     ├── integrator.hpp    # Header file for the FSSH_integrator
-    ├── pot2d.hpp         # Header file for the 2D potentials
+    ├── pot2d.hpp         # Header file for the 2D potentials. SAC, DAC and ECR.
     └── utils.hpp         # some utilities (constants, linspace)
 ```
 
