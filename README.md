@@ -1,5 +1,5 @@
 # FSSH 
-A `c++` implimentation of tully's fewest switching surface hopping (FSSH).
+A c++ implementation of Tully's fewest switching surface hopping (FSSH).
 
 Here is the structure for the code.
 
