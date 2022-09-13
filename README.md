@@ -20,3 +20,8 @@ Two prerequisite libraries for compiling this code are
 
 * Eigen3: For matrix calculation
 * boost/odeint: For molecular dynamics (RK4) and wavefunction Integration (RK4).
+
+
+# TODOs
+
+* Learn how to use OpenMP to run it on HPC
